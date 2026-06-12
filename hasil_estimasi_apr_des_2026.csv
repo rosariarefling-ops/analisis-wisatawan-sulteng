@@ -1,0 +1,118 @@
+kabupaten_kota,bulan,nama_bulan,estimasi_wisatawan,musim
+Banggai,4,Apr,70856,Sedang
+Banggai,5,Mei,71138,Sedang
+Banggai,6,Jun,72474,Sedang
+Banggai,7,Jul,74860,Sedang
+Banggai,8,Aguustus,78292,Sedang
+Banggai,9,Seper,82766,Sedang
+Banggai,10,Oktober,88279,Sedang
+Banggai,11,Nover,94826,Sedang
+Banggai,12,Deser,102403,Sedang
+Banggai Kepulauan,4,Apr,26285,Sepi
+Banggai Kepulauan,5,Mei,26767,Sepi
+Banggai Kepulauan,6,Jun,28302,Sepi
+Banggai Kepulauan,7,Jul,30886,Sepi
+Banggai Kepulauan,8,Aguustus,34515,Sepi
+Banggai Kepulauan,9,Seper,39186,Sepi
+Banggai Kepulauan,10,Oktober,44894,Sepi
+Banggai Kepulauan,11,Nover,51636,Sepi
+Banggai Kepulauan,12,Deser,59408,Sepi
+Banggai Laut,4,Apr,16766,Sepi
+Banggai Laut,5,Mei,17315,Sepi
+Banggai Laut,6,Jun,18917,Sepi
+Banggai Laut,7,Jul,21568,Sepi
+Banggai Laut,8,Aguustus,25264,Sepi
+Banggai Laut,9,Seper,30001,Sepi
+Banggai Laut,10,Oktober,35776,Sepi
+Banggai Laut,11,Nover,42584,Sepi
+Banggai Laut,12,Deser,50421,Sepi
+Buol,4,Apr,22632,Sepi
+Buol,5,Mei,23191,Sepi
+Buol,6,Jun,24803,Sepi
+Buol,7,Jul,27464,Sepi
+Buol,8,Aguustus,31170,Sepi
+Buol,9,Seper,35917,Sepi
+Buol,10,Oktober,41701,Sepi
+Buol,11,Nover,48518,Sepi
+Buol,12,Deser,56365,Sepi
+Donggala,4,Apr,142212,Ramai
+Donggala,5,Mei,142353,Ramai
+Donggala,6,Jun,143549,Ramai
+Donggala,7,Jul,145795,Ramai
+Donggala,8,Aguustus,149088,Ramai
+Donggala,9,Seper,153423,Ramai
+Donggala,10,Oktober,158797,Ramai
+Donggala,11,Nover,165206,Ramai
+Donggala,12,Deser,172646,Ramai
+Kota Palu,4,Apr,292111,Ramai
+Kota Palu,5,Mei,291720,Ramai
+Kota Palu,6,Jun,292386,Ramai
+Kota Palu,7,Jul,294104,Ramai
+Kota Palu,8,Aguustus,296871,Ramai
+Kota Palu,9,Seper,300682,Ramai
+Kota Palu,10,Oktober,305534,Ramai
+Kota Palu,11,Nover,311423,Ramai
+Kota Palu,12,Deser,318345,Ramai
+Morowali,4,Apr,91563,Ramai
+Morowali,5,Mei,91958,Ramai
+Morowali,6,Jun,93407,Ramai
+Morowali,7,Jul,95905,Ramai
+Morowali,8,Aguustus,99449,Ramai
+Morowali,9,Seper,104035,Ramai
+Morowali,10,Oktober,109658,Ramai
+Morowali,11,Nover,116315,Ramai
+Morowali,12,Deser,124002,Ramai
+Morowali Utara,4,Apr,53802,Sedang
+Morowali Utara,5,Mei,54371,Sedang
+Morowali Utara,6,Jun,55993,Ramai
+Morowali Utara,7,Jul,58664,Ramai
+Morowali Utara,8,Aguustus,62380,Ramai
+Morowali Utara,9,Seper,67137,Ramai
+Morowali Utara,10,Oktober,72931,Ramai
+Morowali Utara,11,Nover,79758,Ramai
+Morowali Utara,12,Deser,87615,Ramai
+Parigi Moutong,4,Apr,134573,Ramai
+Parigi Moutong,5,Mei,134870,Ramai
+Parigi Moutong,6,Jun,136221,Ramai
+Parigi Moutong,7,Jul,138622,Ramai
+Parigi Moutong,8,Aguustus,142069,Ramai
+Parigi Moutong,9,Seper,146558,Ramai
+Parigi Moutong,10,Oktober,152085,Ramai
+Parigi Moutong,11,Nover,158646,Ramai
+Parigi Moutong,12,Deser,166238,Ramai
+Poso,4,Apr,90672,Ramai
+Poso,5,Mei,91166,Ramai
+Poso,6,Jun,92713,Ramai
+Poso,7,Jul,95309,Ramai
+Poso,8,Aguustus,98950,Ramai
+Poso,9,Seper,103633,Ramai
+Poso,10,Oktober,109353,Ramai
+Poso,11,Nover,116107,Ramai
+Poso,12,Deser,123890,Ramai
+Sigi,4,Apr,125366,Ramai
+Sigi,5,Mei,125761,Ramai
+Sigi,6,Jun,127210,Ramai
+Sigi,7,Jul,129708,Ramai
+Sigi,8,Aguustus,133252,Ramai
+Sigi,9,Seper,137838,Ramai
+Sigi,10,Oktober,143461,Ramai
+Sigi,11,Nover,150118,Ramai
+Sigi,12,Deser,157805,Ramai
+Tojo Una-una,4,Apr,43404,Sepi
+Tojo Una-una,5,Mei,44139,Sepi
+Tojo Una-una,6,Jun,45926,Sepi
+Tojo Una-una,7,Jul,48762,Sepi
+Tojo Una-una,8,Aguustus,52642,Sepi
+Tojo Una-una,9,Seper,57563,Sepi
+Tojo Una-una,10,Oktober,63520,Sepi
+Tojo Una-una,11,Nover,70510,Sepi
+Tojo Una-una,12,Deser,78528,Sepi
+Tolitoli,4,Apr,45906,Sepi
+Tolitoli,5,Mei,46663,Sepi
+Tolitoli,6,Jun,48473,Sepi
+Tolitoli,7,Jul,51331,Sepi
+Tolitoli,8,Aguustus,55233,Sepi
+Tolitoli,9,Seper,60176,Sepi
+Tolitoli,10,Oktober,66155,Sepi
+Tolitoli,11,Nover,73167,Sepi
+Tolitoli,12,Deser,81207,Sepi
