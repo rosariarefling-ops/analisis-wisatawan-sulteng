@@ -7,6 +7,9 @@ Proyek ini bertujuan untuk menganalisis dan memprediksi jumlah kunjungan wisataw
 - Linear Regression
 - Support Vector Classification (SVC)
 
+##Sumber
+Badan Pusat Statistik (BPS) 
+
 ## Dataset
 Dataset jumlah wisatawan nusantara Kabupaten/Kota Provinsi Sulawesi Tengah periode 2024–2026.
 
